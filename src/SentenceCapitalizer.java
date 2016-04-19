@@ -15,7 +15,7 @@ public class SentenceCapitalizer {
 
 
     public static String toCapitalize(String b) {
-        System.out.println("hello");
+
         int i;
         StringBuilder a = new StringBuilder(b);
 
